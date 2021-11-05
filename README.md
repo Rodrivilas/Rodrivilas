@@ -1,4 +1,5 @@
-### Hi there 👋
+### -Hello there 👋
+### -General Kenobi 👋
 
 <!--
 **Rodrivilas/Rodrivilas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-System engineering student at Universidad Privada Boliviana, Junior engineer, projects developed in Java, Kotlin and C++. Frontend junior developer. Actuallylearning videogame development.
+System engineering student at Universidad Privada Boliviana, Junior engineer, projects developed in Java, Kotlin and C++. Frontend junior developer. Actually learning videogame development.
